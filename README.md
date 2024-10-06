@@ -14,7 +14,7 @@ I'm **Nishanth K R**, a **BE student** specializing in **Computer Science and De
 - 👯 I’m looking to collaborate on **web development projects** and **student tech initiatives**.
 - 🤔 I’m seeking guidance on **full-stack development best practices**.
 - 💬 Ask me about **HTML, CSS, JavaScript, Java**, and **MySQL**.
-- 📫 How to reach me: **nkr\nisha@gmail.com**
+- 📫 How to reach me: **nishanthkr1714@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love coding challenges and building projects from scratch!
 
@@ -23,9 +23,9 @@ I'm **Nishanth K R**, a **BE student** specializing in **Computer Science and De
 ### 📌 Recent Projects:
 | Project Name | Description |
 | ------------- | ------------- |
-| 🍽️ **[Swaad Sanchalan]([https://github.com/yourrepositorylink](https://github.com/violetto-rose/RestaurantManagementSystem.git))**  | A restaurant management system (Full-Stack Developer) |
-| 🎉 **[Preranothsava]([https://github.com/yourrepositorylink](https://github.com/Nishanth1409/College-event-management-System.git))**  | A college event management system (Full-Stack Developer) |
-| 🌐 **[Zomato Dummy Website]([https://github.com/yourrepositorylink](https://nishanth1409.github.io/Zomato_1409/))**  | A front-end web project showcasing restaurant listings |
+| 🍽️ **[Swaad Sanchalan](https://github.com/violetto-rose/RestaurantManagementSystem.git)**  | A restaurant management system (Full-Stack Developer) |
+| 🎉 **[Preranothsava](https://github.com/Nishanth1409/College-event-management-System.git)**  | A college event management system (Full-Stack Developer) |
+| 🌐 **[Zomato Dummy Website](https://nishanth1409.github.io/Zomato_1409/)**  | A front-end web project showcasing restaurant listings |
 
 ---
 
@@ -36,10 +36,10 @@ I'm **Nishanth K R**, a **BE student** specializing in **Computer Science and De
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<!--   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> -->
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<!--   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
@@ -56,7 +56,7 @@ I'm **Nishanth K R**, a **BE student** specializing in **Computer Science and De
 ### 🏆 GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nishanth1409&theme=onedark" alt="GitHub Trophies" />
-
+</div>
 
 ---
 
