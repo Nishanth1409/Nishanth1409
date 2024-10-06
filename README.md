@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Nishanth K R  
+<a href="https://www.linkedin.com/in/nishanth-k-r-107895258"><img align="left" alt="Nishanth's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://x.com/Nkr1409"><img align="left" alt="Nishanth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
-I'm **Nishanth K R**, a **BE student** specializing in **Computer Science and Design**. I'm passionate about becoming a **full-stack developer**, focusing on front-end and back-end technologies.
+<br />
+
+I'm **Nishanth K R**, a **BE student** specializing in **Computer Science and Design**, passionate about becoming a **full-stack developer**! I enjoy solving problems and building projects that focus on both **front-end** and **back-end** technologies.
+
+---
 
 ### 🌟 About Me:
 - 🔭 I’m currently working on improving my skills in **Java, MySQL, and Web Development**.
@@ -8,13 +14,67 @@ I'm **Nishanth K R**, a **BE student** specializing in **Computer Science and De
 - 👯 I’m looking to collaborate on **web development projects** and **student tech initiatives**.
 - 🤔 I’m seeking guidance on **full-stack development best practices**.
 - 💬 Ask me about **HTML, CSS, JavaScript, Java**, and **MySQL**.
-- 📫 How to reach me: **nkr\nisha**
+- 📫 How to reach me: **nkr\nisha@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love coding challenges and building projects from scratch!
 
-### 📌 Recent Projects:
-- 🍽️ **Swaad Sanchalan** – A restaurant management system (Full-Stack Developer)
-- 🎉 **Preranothsava** – A college event management system (Full-Stack Developer)
-- 🌐 **Zomato Dummy Website** – A front-end web project
+---
 
-Feel free to check out my repositories, explore my projects, and let's collaborate on something exciting! 🚀
+### 📌 Recent Projects:
+| Project Name | Description |
+| ------------- | ------------- |
+| 🍽️ **[Swaad Sanchalan]([https://github.com/yourrepositorylink](https://github.com/violetto-rose/RestaurantManagementSystem.git))**  | A restaurant management system (Full-Stack Developer) |
+| 🎉 **[Preranothsava]([https://github.com/yourrepositorylink](https://github.com/Nishanth1409/College-event-management-System.git))**  | A college event management system (Full-Stack Developer) |
+| 🌐 **[Zomato Dummy Website]([https://github.com/yourrepositorylink](https://nishanth1409.github.io/Zomato_1409/))**  | A front-end web project showcasing restaurant listings |
+
+---
+
+### 🛠️ Languages & Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nishanth1409&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishanth1409&theme=tokyonight" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishanth1409&theme=onedark" alt="GitHub Trophies" />
+
+
+---
+
+### 📫 Connect with me:
+<p align="center">
+  <a href="https://github.com/Nishanth1409"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/nishanth-k-r-107895258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/Nkr1409"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+---
+
+### 🌟 Fun fact:
+**"I love making things look beautiful — both code and designs!" 💻✨**
+
+---
+
+### 📫 Visitors Count:
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Nishanth1409&color=brightgreen" alt="Visitors count" />
+</p>
