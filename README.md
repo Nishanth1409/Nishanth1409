@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm Nishanth K R  
-<a href="https://www.linkedin.com/in/nishanth-k-r-107895258"><img align="left" alt="Nishanth's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://x.com/Nkr1409"><img align="left" alt="Nishanth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/nishanth-k-r-107895258"><img align="top" alt="Nishanth's LinkedIn" width="75px" src="372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" /></a>
+<a href="https://instagram.com/_mr.nishanth.k.r?igshid=MzMyNGUyNmU2YQ=="><img align="top" alt="Nishanth's insta" width="75px" src="371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif" /></a>
+<a href="https://x.com/Nkr1409"><img align="top" alt="Nishanth's Twitter" width="75px" src="371907030_TWITTER_ICON_TRANSPARENT_1080.gif" /></a>
+<a href="https://instagram.com/_n.k.r_photography?igshid=NzZlODBkYWE4Ng=="><img align="top" alt="Nishanth's insta" width="75px" src="371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif" /></a>
+<a href="https://instagram.com/_n.k.r_photography?igshid=NzZlODBkYWE4Ng=="><img align="top" alt="Nishanth's FB" width="75px" src="371907490_FACEBOOK_ICON_TRANSPARENT_1080.gif" /></a>
 
 <br />
 
