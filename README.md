@@ -26,9 +26,10 @@ I'm **Nishanth K R**, a **BE student** specializing in **Computer Science and De
 ### 📌 Recent Projects:
 | Project Name | Description |
 | ------------- | ------------- |
+| 🌐 **[Zomato Dummy Website](https://nishanth1409.github.io/Zomato_1409/)**  | A front-end web project showcasing restaurant listings |
 | 🍽️ **[Swaad Sanchalan](https://github.com/violetto-rose/RestaurantManagementSystem.git)**  | A restaurant management system (Full-Stack Developer) |
 | 🎉 **[Preranothsava](https://github.com/Nishanth1409/College-event-management-System.git)**  | A college event management system (Full-Stack Developer) |
-| 🌐 **[Zomato Dummy Website](https://nishanth1409.github.io/Zomato_1409/)**  | A front-end web project showcasing restaurant listings |
+
 
 ---
 
