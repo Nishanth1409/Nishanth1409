@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Nishanth K R  
-sudo apt update && sudo apt upgrade -y && sudo apt install -y libomp-dev openmpi-bin 
+
 <br />
 <a href="https://www.linkedin.com/in/nishanth-k-r-107895258"><img align="top" alt="Nishanth's LinkedIn" width="75px" src="372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" /></a>
 <a href="https://instagram.com/_mr.nishanth.k.r?igshid=MzMyNGUyNmU2YQ=="><img align="top" alt="Nishanth's insta" width="75px" src="371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif" /></a>
