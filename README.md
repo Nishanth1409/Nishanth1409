@@ -5,11 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&width=720&height=50&lines=Nishanth+K+R+%7C+Nkr" alt="Nishanth K R | Nkr" />
 </a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3800&pause=1000&color=E5E7EB&center=true&vCenter=true&width=780&height=45&lines=UI%2FUX+%C2%B7+Frontend+%C2%B7+Full-Stack+%C2%B7+Photography;Computer+Science+%26+Design+%7C+PESITM+Shivamogga" alt="Role typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3800&pause=1000&color=E5E7EB&center=true&vCenter=true&width=820&height=45&lines=UI%2FUX+%C2%B7+Frontend+%C2%B7+Full-Stack+%C2%B7+Photography;M.Des+User+Experience+Design+%7C+JAIN+University" alt="Role typing" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/PESITM%20Shivamogga-Computer%20Science%20%26%20Design-0B1220?style=for-the-badge&labelColor=111827" alt="PESITM CSD"/>
+<img src="https://img.shields.io/badge/JAIN%20University-M.Des%20User%20Experience%20Design-0B1220?style=for-the-badge&labelColor=111827" alt="JAIN M.Des UX"/>
+<img src="https://img.shields.io/badge/PESITM-B.E.%20Computer%20Science%20%26%20Design-111827?style=for-the-badge&labelColor=0B1220" alt="PESITM CSD"/>
 <img src="https://img.shields.io/badge/Location-Shivamogga%2C%20Karnataka-111827?style=for-the-badge&labelColor=0B1220" alt="Location"/>
 <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-2563eb?style=for-the-badge&labelColor=0B1220" alt="Pronouns"/>
 <img src="https://komarev.com/ghpvc/?username=Nishanth1409&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -28,7 +29,7 @@
 
 ### Overview
 
-I'm a **Computer Science & Design** undergraduate from Karnataka — passionate about **photography**, **UI/UX**, and **frontend development**, building clean digital experiences with **React** and **Next.js**, while growing into backend and applied AI.
+I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, First Class with Distinction) and currently pursuing **M.Des User Experience Design** at **JAIN (Deemed-to-be University), SoDMCA**. Passionate about **UI/UX**, **frontend**, **photography**, and building clean digital products with **React** / **Next.js**, plus Windows customization tooling.
 
 > *A creator who captures moments and admires good design.*
 
@@ -49,10 +50,11 @@ I'm a **Computer Science & Design** undergraduate from Karnataka — passionate 
 
 | Focus | Details |
 | :--- | :--- |
+| **Education** | **M.Des User Experience Design** · JAIN University SoDMCA *(App No. JUPG26MD17644)* |
 | **Role** | Frontend Design · Branding · Social Media at **ProtoRev Digital & ProtoRev 3D** *(Remote · 2025 – Present)* |
-| **Product work** | Building **[Sryn Mandi](https://sryn-mandi.vercel.app)** — live arecanut mandi rates, AGMARKNET sync, and local agent averages (EN / ಕನ್ನಡ / हिन्दी) |
-| **Learning** | Backend development · full-stack architecture · applied AI products |
-| **Craft** | UI/UX in Figma · React/Next.js · photography & visual storytelling |
+| **Product work** | **[Sryn Mandi](https://sryn-mandi.vercel.app)** — live arecanut mandi rates + local agent averages · **[Areca ERP](https://github.com/Nishanth1409/Areca-ERP)** |
+| **Systems / mods** | Authoring **Windhawk** mods — lock screen & per-monitor wallpapers, tray audio/mic, fullscreen taskbar peek |
+| **Craft** | UX process · Figma · React/Next.js · photography & visual storytelling |
 
 **ProtoRev work:** planning frontend layouts for [protorevdigital.com](https://www.protorevdigital.com/) and [protorev3d.com](https://www.protorev3d.com/), creating logos/templates, and running social content for both brands.
 
@@ -62,10 +64,11 @@ I'm a **Computer Science & Design** undergraduate from Karnataka — passionate 
 
 | Focus | Details |
 | :--- | :--- |
-| **Education** | B.E. Computer Science & Design · PESITM Shivamogga |
-| **Location** | Shivamogga, Karnataka · he/him |
+| **PG** | M.Des User Experience Design · JAIN (Deemed-to-be University), Bengaluru |
+| **UG** | B.E. Computer Science & Design · PESITM Shivamogga · USN **4PM22CG028** · First Class with Distinction (May/June 2026) |
+| **Location** | Shivamogga / Bengaluru · he/him |
 | **Contact** | [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) · [+91 83101 93757](tel:+918310193757) |
-| **Open to** | Collaborations · Internships · Design + product builds |
+| **Open to** | UX/UI collaborations · Design + product builds · Creative technology |
 
 ---
 
@@ -73,6 +76,7 @@ I'm a **Computer Science & Design** undergraduate from Karnataka — passionate 
 
 | Project | What it does | Live / Repo |
 | :--- | :--- | :--- |
+| **Windhawk Mods** | Lock screen wallpaper, per-monitor wallpaper, tray audio/mic, fullscreen taskbar peek + curated catalog | [Repo](https://github.com/Nishanth1409/windhawk-mods) |
 | **Sryn Mandi** | Live arecanut mandi board — AGMARKNET rates + local GPS averages | [Live](https://sryn-mandi.vercel.app) · [Repo](https://github.com/Nishanth1409/sryn-mandi) |
 | **Areca ERP** | SRYN arecanut ERP — employees, attendance, loans, finance, PDF reports | [Repo](https://github.com/Nishanth1409/Areca-ERP) |
 | **Happy Journey** | AI travel advisor — itineraries, budget planning, maps, Firebase | [Live](https://happy-journy.vercel.app/) · [Repo](https://github.com/Nishanth1409/happy-journy) |
