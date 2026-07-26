@@ -74,8 +74,10 @@ I'm a **Computer Science & Design** undergraduate from Karnataka — passionate 
 | Project | What it does | Live / Repo |
 | :--- | :--- | :--- |
 | **Sryn Mandi** | Live arecanut mandi board — AGMARKNET rates + local GPS averages | [Live](https://sryn-mandi.vercel.app) · [Repo](https://github.com/Nishanth1409/sryn-mandi) |
-| **Happy Journey** | AI travel advisor — itineraries, budget planning, maps, Firebase | [Live](https://happy-journy.vercel.app/) |
+| **Areca ERP** | SRYN arecanut ERP — employees, attendance, loans, finance, PDF reports | [Repo](https://github.com/Nishanth1409/Areca-ERP) |
+| **Happy Journey** | AI travel advisor — itineraries, budget planning, maps, Firebase | [Live](https://happy-journy.vercel.app/) · [Repo](https://github.com/Nishanth1409/happy-journy) |
 | **NyayaSakhi AI** | Multilingual legal assistant for rural women — chat, voice, OCR | [Live](https://nyayasakhi-ai.vercel.app/) · [Repo](https://github.com/Nishanth1409/nyayasakhi-ai) |
+| **Windows System Maintenance** | PowerShell toolkit — cleanup, updates, security, desktop menu | [Repo](https://github.com/Nishanth1409/windows-system-maintenance) |
 | **GymWeb** | Modern fitness web experience | [Live](https://gymweb-sand.vercel.app) · [Repo](https://github.com/Nishanth1409/gymweb) |
 | **BhaavChitra** | Sentiment analysis for SME feedback (BERT / NLP) | [Repo](https://github.com/violetto-rose/bhaavchitra) |
 | **Swaad Sanchalan** | Restaurant management — menu, reservations, billing | [Repo](https://github.com/violetto-rose/swaad-sanchalan) |
