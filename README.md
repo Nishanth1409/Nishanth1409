@@ -145,7 +145,7 @@ GitHub: **YOLO** · **Pull Shark** · **Quickdraw**
 | Linktree | [linktr.ee/Nkr14](https://linktr.ee/Nkr14) |
 | LinkedIn | [nishanth-k-r](https://www.linkedin.com/in/nishanth-k-r-107895258) |
 | X | [@Nkr1409](https://x.com/Nkr1409) |
-| Instagram | [@_n.k.r_creation](https://www.instagram.com/_n.k.r_creation) · [@_mr.nishanth.k.r](https://instagram.com/_mr.nishanth.k.r) · [@_n.k.r_photography](https://instagram.com/_n.k.r_photography) |
+| Instagram | [@_n.k.r_creation](https://www.instagram.com/_n.k.r_creation) · [@_mr.nishanth.k.r](https://instagram.com/_mr.nishanth.k.r) |
 | Email | [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) |
 | Phone | [+91 83101 93757](tel:+918310193757) |
 
