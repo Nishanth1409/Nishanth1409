@@ -1,7 +1,7 @@
 <!-- Professional Profile Dashboard — Nishanth K R / Nkr -->
 <div align="center">
 
-<a href="https://manjumadhav.vercel.app">
+<a href="https://nkrportfolio.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&width=720&height=50&lines=Nishanth+K+R+%7C+Nkr" alt="Nishanth K R | Nkr" />
 </a>
 <br/>
@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<a href="https://manjumadhav.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Nkr-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Nkr-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linktr.ee/Nkr14"><img src="https://img.shields.io/badge/Linktree-Nkr14-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/></a>
 <a href="https://www.linkedin.com/in/nishanth-k-r-107895258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/Nkr1409"><img src="https://img.shields.io/badge/X-%40Nkr1409-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -38,7 +38,7 @@ I'm a **Computer Science & Design** undergraduate from Karnataka — passionate 
 
 | Link | What it is |
 | :--- | :--- |
-| **[Current Portfolio](https://manjumadhav.vercel.app)** | Live Nkr portfolio — projects, designs, photography, experience |
+| **[Current Portfolio](https://nkrportfolio.vercel.app)** | Live Nkr portfolio — projects, designs, photography, experience |
 | **[2023 Portfolio Archive](https://nkr14.vercel.app)** | Earlier Nkr. portfolio (Vite) |
 | **[Linktree · Nkr14](https://linktr.ee/Nkr14)** | All public links in one place |
 | **[GitHub Profile](https://github.com/Nishanth1409)** | Source code & repositories |
@@ -141,7 +141,7 @@ GitHub: **YOLO** · **Pull Shark** · **Quickdraw**
 
 | Platform | Handle |
 | :---: | :---: |
-| Portfolio | [manjumadhav.vercel.app](https://manjumadhav.vercel.app) |
+| Portfolio | [nkrportfolio.vercel.app](https://nkrportfolio.vercel.app) |
 | Linktree | [linktr.ee/Nkr14](https://linktr.ee/Nkr14) |
 | LinkedIn | [nishanth-k-r](https://www.linkedin.com/in/nishanth-k-r-107895258) |
 | X | [@Nkr1409](https://x.com/Nkr1409) |
