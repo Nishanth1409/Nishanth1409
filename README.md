@@ -40,7 +40,8 @@ I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, 
 | Link | What it is |
 | :--- | :--- |
 | **[Current Portfolio](https://nkrportfolio.vercel.app)** | Live Nkr portfolio — projects, designs, photography, experience |
-| **[2023 Portfolio Archive](https://nkr14.vercel.app)** | Earlier Nkr. portfolio (Vite) |
+| **[2024 Archive](https://nkrportfolio.vercel.app/archive2024)** | Earlier portfolio year, same site |
+| **[2023 Archive](https://nkrportfolio.vercel.app/archive2023)** | Earlier portfolio year, same site |
 | **[Linktree · Nkr14](https://linktr.ee/Nkr14)** | All public links in one place |
 | **[GitHub Profile](https://github.com/Nishanth1409)** | Source code & repositories |
 
