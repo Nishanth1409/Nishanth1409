@@ -9,9 +9,10 @@
 
 <br/>
 
+<a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/Official%20Portfolio-nkrportfolio.vercel.app-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Official Portfolio"/></a>
 <a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/JAIN%20University-M.Des%20User%20Experience%20Design-0B1220?style=for-the-badge&amp;labelColor=111827" alt="JAIN M.Des UX"/></a>
 <a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/PESITM-B.E.%20Computer%20Science%20%26%20Design-111827?style=for-the-badge&amp;labelColor=0B1220" alt="PESITM CSD"/></a>
-<a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/Location-Shivamogga%2C%20Karnataka-111827?style=for-the-badge&amp;labelColor=0B1220" alt="Location"/></a>
+<a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/Location-Shivamogga%20%2F%20Bengaluru-111827?style=for-the-badge&amp;labelColor=0B1220" alt="Location"/></a>
 <a href="https://github.com/Nishanth1409"><img src="https://img.shields.io/badge/Pronouns-he%2Fhim-2563eb?style=for-the-badge&amp;labelColor=0B1220" alt="Pronouns"/></a>
 <a href="https://github.com/Nishanth1409"><img src="https://komarev.com/ghpvc/?username=Nishanth1409&amp;style=for-the-badge&amp;color=2563eb&amp;label=PROFILE+VIEWS" alt="Profile views"/></a>
 
@@ -35,15 +36,19 @@ I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, 
 
 ---
 
-### Portfolio Hub · @Nkr
+### Official Portfolio · @Nkr
+
+**One live portfolio only:** **[nkrportfolio.vercel.app](https://nkrportfolio.vercel.app)** · GitHub repo **[Nishanth1409/Nkr](https://github.com/Nishanth1409/Nkr)**
+
+Older years are **not** separate sites — they live inside the same portfolio as history pages:
+
+- [Year archive 2024](https://nkrportfolio.vercel.app/archive2024) · [Year archive 2023](https://nkrportfolio.vercel.app/archive2023)
 
 | Link | What it is |
 | :--- | :--- |
-| **[Current Portfolio](https://nkrportfolio.vercel.app)** | Live Nkr portfolio — projects, designs, photography, experience |
-| **[2024 Archive](https://nkrportfolio.vercel.app/archive2024)** | Earlier portfolio year, same site |
-| **[2023 Archive](https://nkrportfolio.vercel.app/archive2023)** | Earlier portfolio year, same site |
-| **[Linktree · Nkr14](https://linktr.ee/Nkr14)** | All public links in one place |
-| **[GitHub Profile](https://github.com/Nishanth1409)** | Source code & repositories |
+| **[Official Portfolio](https://nkrportfolio.vercel.app)** | Only current Nkr portfolio — projects, designs, photography, experience |
+| **[Linktree · Nkr14](https://linktr.ee/Nkr14)** | Public links hub (portfolio points to nkrportfolio.vercel.app) |
+| **[GitHub](https://github.com/Nishanth1409)** | Source code & repositories |
 
 ---
 
@@ -68,6 +73,7 @@ I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, 
 | **PG** | M.Des User Experience Design · JAIN (Deemed-to-be University), Bengaluru |
 | **UG** | B.E. Computer Science & Design · PESITM Shivamogga · USN **4PM22CG028** · First Class with Distinction (May/June 2026) |
 | **Location** | Shivamogga / Bengaluru · he/him |
+| **Portfolio** | [nkrportfolio.vercel.app](https://nkrportfolio.vercel.app) *(only official)* |
 | **Contact** | [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) · [+91 83101 93757](tel:+918310193757) |
 | **Open to** | UX/UI collaborations · Design + product builds · Creative technology |
 
@@ -148,11 +154,11 @@ GitHub: **YOLO** · **Pull Shark** · **Quickdraw**
 
 | Platform | Handle |
 | :---: | :---: |
-| Portfolio | [nkrportfolio.vercel.app](https://nkrportfolio.vercel.app) |
+| Portfolio | [nkrportfolio.vercel.app](https://nkrportfolio.vercel.app) *(official only)* |
 | Linktree | [linktr.ee/Nkr14](https://linktr.ee/Nkr14) |
 | LinkedIn | [nishanth-k-r](https://www.linkedin.com/in/nishanth-k-r-107895258) |
 | X | [@Nkr1409](https://x.com/Nkr1409) |
-| Instagram | [@_n.k.r_creation](https://www.instagram.com/_n.k.r_creation) · [@_mr.nishanth.k.r](https://instagram.com/_mr.nishanth.k.r) |
+| Instagram | [@_mr.nishanth.k.r](https://instagram.com/_mr.nishanth.k.r) · [@_n.k.r_photography](https://instagram.com/_n.k.r_photography) |
 | Email | [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) |
 | Phone | [+91 83101 93757](tel:+918310193757) |
 
@@ -160,11 +166,9 @@ GitHub: **YOLO** · **Pull Shark** · **Quickdraw**
 
 <a href="https://www.linkedin.com/in/nishanth-k-r-107895258"><img width="52" src="372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://www.instagram.com/_n.k.r_creation"><img width="52" src="371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="Instagram"/></a>
+<a href="https://www.instagram.com/_mr.nishanth.k.r"><img width="52" src="371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="Instagram"/></a>
 &nbsp;
 <a href="https://x.com/Nkr1409"><img width="52" src="371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="X"/></a>
-&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100093049380147"><img width="52" src="371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="Facebook"/></a>
 
 <br/><br/>
 
