@@ -2,26 +2,26 @@
 <div align="center">
 
 <a href="https://nkrportfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&width=720&height=50&repeat=false&lines=Nishanth+K+R+%7C+Nkr" alt="Nishanth K R | Nkr" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=32&amp;duration=3000&amp;pause=800&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=50&amp;repeat=false&amp;lines=Nishanth+K+R+%7C+Nkr" alt="Nishanth K R | Nkr" />
 </a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3800&pause=1000&color=E5E7EB&center=true&vCenter=true&width=820&height=45&lines=UI%2FUX+%C2%B7+Frontend+%C2%B7+Full-Stack+%C2%B7+Photography;M.Des+User+Experience+Design+%7C+JAIN+University" alt="Role typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3800&amp;pause=1000&amp;color=E5E7EB&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=45&amp;lines=UI%2FUX+%C2%B7+Frontend+%C2%B7+Full-Stack+%C2%B7+Photography;M.Des+User+Experience+Design+%7C+JAIN+University" alt="Role typing" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/JAIN%20University-M.Des%20User%20Experience%20Design-0B1220?style=for-the-badge&labelColor=111827" alt="JAIN M.Des UX"/>
-<img src="https://img.shields.io/badge/PESITM-B.E.%20Computer%20Science%20%26%20Design-111827?style=for-the-badge&labelColor=0B1220" alt="PESITM CSD"/>
-<img src="https://img.shields.io/badge/Location-Shivamogga%2C%20Karnataka-111827?style=for-the-badge&labelColor=0B1220" alt="Location"/>
-<img src="https://img.shields.io/badge/Pronouns-he%2Fhim-2563eb?style=for-the-badge&labelColor=0B1220" alt="Pronouns"/>
-<img src="https://komarev.com/ghpvc/?username=Nishanth1409&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/JAIN%20University-M.Des%20User%20Experience%20Design-0B1220?style=for-the-badge&amp;labelColor=111827" alt="JAIN M.Des UX"/></a>
+<a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/PESITM-B.E.%20Computer%20Science%20%26%20Design-111827?style=for-the-badge&amp;labelColor=0B1220" alt="PESITM CSD"/></a>
+<a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/Location-Shivamogga%2C%20Karnataka-111827?style=for-the-badge&amp;labelColor=0B1220" alt="Location"/></a>
+<a href="https://github.com/Nishanth1409"><img src="https://img.shields.io/badge/Pronouns-he%2Fhim-2563eb?style=for-the-badge&amp;labelColor=0B1220" alt="Pronouns"/></a>
+<a href="https://github.com/Nishanth1409"><img src="https://komarev.com/ghpvc/?username=Nishanth1409&amp;style=for-the-badge&amp;color=2563eb&amp;label=PROFILE+VIEWS" alt="Profile views"/></a>
 
 <br/><br/>
 
-<a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Nkr-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linktr.ee/Nkr14"><img src="https://img.shields.io/badge/Linktree-Nkr14-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/></a>
-<a href="https://www.linkedin.com/in/nishanth-k-r-107895258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/Nkr1409"><img src="https://img.shields.io/badge/X-%40Nkr1409-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:nishanthkr1409@gmail.com"><img src="https://img.shields.io/badge/Email-nishanthkr1409%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://nkrportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Nkr-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+<a href="https://linktr.ee/Nkr14"><img src="https://img.shields.io/badge/Linktree-Nkr14-43E55E?style=for-the-badge&amp;logo=linktree&amp;logoColor=black" alt="Linktree"/></a>
+<a href="https://www.linkedin.com/in/nishanth-k-r-107895258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Nkr1409"><img src="https://img.shields.io/badge/X-%40Nkr1409-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"/></a>
+<a href="mailto:nishanthkr1409@gmail.com"><img src="https://img.shields.io/badge/Email-nishanthkr1409%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -97,18 +97,18 @@ I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel"/>
 </p>
 
 ---
@@ -116,21 +116,21 @@ I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, 
 ### GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Nishanth1409&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0B1220&title_color=93C5FD&icon_color=60A5FA&text_color=E5E7EB" alt="Nishanth GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Nishanth1409&theme=radical&hide_border=true&background=0B1220&ring=60A5FA&fire=F59E0B&currStreakLabel=93C5FD" alt="Nishanth streak stats"/>
+  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Nishanth1409&amp;show_icons=true&amp;include_all_commits=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=93C5FD&amp;icon_color=60A5FA&amp;text_color=E5E7EB" alt="Nishanth GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Nishanth1409&amp;theme=radical&amp;hide_border=true&amp;background=0B1220&amp;ring=60A5FA&amp;fire=F59E0B&amp;currStreakLabel=93C5FD" alt="Nishanth streak stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nishanth1409&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nishanth1409&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Graph" alt="Contribution graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nishanth1409&layout=compact&theme=radical&hide_border=true&bg_color=0B1220&title_color=93C5FD&text_color=E5E7EB" alt="Top languages"/>
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishanth1409&theme=radical" alt="Profile stats card"/>
+  <img height="175" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nishanth1409&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=93C5FD&amp;text_color=E5E7EB" alt="Top languages"/>
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishanth1409&amp;theme=radical" alt="Profile stats card"/>
 </div>
 
 ---
