@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://nkrportfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&width=720&height=50&lines=Nishanth+K+R+%7C+Nkr" alt="Nishanth K R | Nkr" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&width=720&height=50&repeat=false&lines=Nishanth+K+R+%7C+Nkr" alt="Nishanth K R | Nkr" />
 </a>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3800&pause=1000&color=E5E7EB&center=true&vCenter=true&width=820&height=45&lines=UI%2FUX+%C2%B7+Frontend+%C2%B7+Full-Stack+%C2%B7+Photography;M.Des+User+Experience+Design+%7C+JAIN+University" alt="Role typing" />
