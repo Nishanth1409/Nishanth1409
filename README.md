@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=32&amp;duration=3000&amp;pause=800&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=50&amp;repeat=false&amp;lines=Nishanth+K+R+%7C+Nkr" alt="Nishanth K R | Nkr" />
 </a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3800&amp;pause=1000&amp;color=E5E7EB&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=45&amp;lines=UI%2FUX+%C2%B7+Frontend+%C2%B7+Full-Stack+%C2%B7+Photography;M.Des+User+Experience+Design+%7C+JAIN+University" alt="Role typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3800&amp;pause=1000&amp;color=E5E7EB&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=45&amp;lines=UI%2FUX+%C2%B7+Brand+Design+%C2%B7+Logos+%C2%B7+Invites+%C2%B7+Templates;Frontend+%C2%B7+Digital+Invitations+%C2%B7+Photography;M.Des+User+Experience+Design+%7C+JAIN+University" alt="Role typing" />
 
 <br/>
 
@@ -30,9 +30,9 @@
 
 ### Overview
 
-I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, First Class with Distinction) and currently pursuing **M.Des User Experience Design** at **JAIN (Deemed-to-be University), SoDMCA**. Passionate about **UI/UX**, **frontend**, **photography**, and building clean digital products with **React** / **Next.js**, plus Windows customization tooling.
+I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, First Class with Distinction) and currently pursuing **M.Des User Experience Design** at **JAIN (Deemed-to-be University), SoDMCA**. I design across **UI/UX**, **brand & visual identity**, **logos**, **templates**, **invitation cards** (print + digital), **frontend**, and **photography** — shipping clean products with **React** / **Next.js**, plus Windows customization tooling.
 
-> *A creator who captures moments and admires good design.*
+> *UI/UX is one craft — logos, templates, and invitations are the rest of the story.*
 
 ---
 
@@ -46,7 +46,7 @@ Older years are **not** separate sites — they live inside the same portfolio a
 
 | Link | What it is |
 | :--- | :--- |
-| **[Official Portfolio](https://nkrportfolio.vercel.app)** | Only current Nkr portfolio — projects, designs, photography, experience |
+| **[Official Portfolio](https://nkrportfolio.vercel.app)** | Only current Nkr portfolio — UI/UX, brand design, invites, projects, photography |
 | **[Linktree · Nkr14](https://linktr.ee/Nkr14)** | Public links hub (portfolio points to nkrportfolio.vercel.app) |
 | **[GitHub](https://github.com/Nishanth1409)** | Source code & repositories |
 
@@ -57,12 +57,12 @@ Older years are **not** separate sites — they live inside the same portfolio a
 | Focus | Details |
 | :--- | :--- |
 | **Education** | **M.Des User Experience Design** · JAIN University SoDMCA *(App No. JUPG26MD17644)* |
-| **Role** | Frontend Design · Branding · Social Media at **ProtoRev Digital & ProtoRev 3D** *(Remote · 2025 – Present)* |
+| **Role** | Frontend · Brand Design · Social at **ProtoRev Digital & ProtoRev 3D** *(Remote · 2025 – Present)* |
 | **Product work** | **[Sryn Mandi](https://sryn-mandi.vercel.app)** — live arecanut mandi rates + local agent averages · **[Areca ERP](https://github.com/Nishanth1409/Areca-ERP)** |
 | **Systems / mods** | Authoring **Windhawk** mods — lock screen & per-monitor wallpapers, tray audio/mic, fullscreen taskbar peek |
-| **Craft** | UX process · Figma · React/Next.js · photography & visual storytelling |
+| **Craft** | UI/UX · logos · templates · invitation cards · digital invites · Figma/Canva · React/Next.js · photography |
 
-**ProtoRev work:** planning frontend layouts for [protorevdigital.com](https://www.protorevdigital.com/) and [protorev3d.com](https://www.protorev3d.com/), creating logos/templates, and running social content for both brands.
+**ProtoRev work:** frontend layouts for [protorevdigital.com](https://www.protorevdigital.com/) and [protorev3d.com](https://www.protorev3d.com/), **logos & brand templates**, social creatives, and other visual design for both brands.
 
 ---
 
@@ -75,7 +75,7 @@ Older years are **not** separate sites — they live inside the same portfolio a
 | **Location** | Shivamogga / Bengaluru · he/him |
 | **Portfolio** | [nkrportfolio.vercel.app](https://nkrportfolio.vercel.app) *(only official)* |
 | **Contact** | [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) · [+91 83101 93757](tel:+918310193757) |
-| **Open to** | UX/UI collaborations · Design + product builds · Creative technology |
+| **Open to** | UI/UX · Brand & logo design · Templates & invitation cards · Product builds |
 
 ---
 
@@ -158,7 +158,7 @@ GitHub: **YOLO** · **Pull Shark** · **Quickdraw**
 | Linktree | [linktr.ee/Nkr14](https://linktr.ee/Nkr14) |
 | LinkedIn | [nishanth-k-r](https://www.linkedin.com/in/nishanth-k-r-107895258) |
 | X | [@Nkr1409](https://x.com/Nkr1409) |
-| Instagram | [@_mr.nishanth.k.r](https://instagram.com/_mr.nishanth.k.r) · [@_n.k.r_photography](https://instagram.com/_n.k.r_photography) |
+| Instagram | [@_mr.nishanth.k.r](https://instagram.com/_mr.nishanth.k.r) |
 | Email | [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) |
 | Phone | [+91 83101 93757](tel:+918310193757) |
 
@@ -172,6 +172,6 @@ GitHub: **YOLO** · **Pull Shark** · **Quickdraw**
 
 <br/><br/>
 
-**he/him** · Open to opportunities that value craft, clarity, and product thinking.
+**he/him** · Open to UI/UX, brand design, logos, templates, invitations, and product builds.
 
 </div>
