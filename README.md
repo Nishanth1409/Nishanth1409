@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=32&amp;duration=3000&amp;pause=800&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=50&amp;repeat=false&amp;lines=Nishanth+K+R+%7C+Nkr" alt="Nishanth K R | Nkr" />
 </a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3800&amp;pause=1000&amp;color=E5E7EB&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=45&amp;lines=UI%2FUX+%C2%B7+Brand+Design+%C2%B7+Logos+%C2%B7+Invites+%C2%B7+Templates;Frontend+%C2%B7+Digital+Invitations+%C2%B7+Photography;M.Des+User+Experience+Design+%7C+JAIN+University" alt="Role typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3800&amp;pause=1000&amp;color=E5E7EB&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=45&amp;lines=Son+of+a+farmer+%C2%B7+Always+a+farmer;UI%2FUX+%C2%B7+Brand+Design+%C2%B7+Logos+%C2%B7+Invites+%C2%B7+Templates;Frontend+%C2%B7+Digital+Invitations+%C2%B7+Photography;M.Des+User+Experience+Design+%7C+JAIN+University" alt="Role typing" />
 
 <br/>
 
@@ -30,11 +30,13 @@
 
 ### Overview
 
-I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, First Class with Distinction) and currently pursuing **M.Des User Experience Design** at **JAIN (Deemed-to-be University), SoDMCA**. I design across **UI/UX**, **brand & visual identity**, **logos**, **templates**, **invitation cards** (print + digital), **frontend**, and **photography** — shipping clean products with **React** / **Next.js**, plus Windows customization tooling.
+> **Son of a farmer. Always a farmer.**
+
+I'm **Nishanth K R** — rooted in the soil, building in design and code. B.E. **Computer Science & Design** (PESITM Shivamogga, First Class with Distinction) and currently pursuing **M.Des User Experience Design** at **JAIN (Deemed-to-be University), SoDMCA**. I design across **UI/UX**, **brand & visual identity**, **logos**, **templates**, **invitation cards** (print + digital), **frontend**, and **photography** — shipping clean products with **React** / **Next.js**, plus Windows customization tooling.
 
 **Open for client work:** edits, redesigns, logos, templates, and invitation cards — **feel free to ask**. Affordable rates for small jobs; DM or email anytime.
 
-> *UI/UX is one craft — logos, templates, and invitations are the rest of the story.*
+> *The land raised me. Design is how I give back — logos, templates, and invitations included.*
 
 ---
 
@@ -74,6 +76,7 @@ Older years are **not** separate sites — they live inside the same portfolio a
 | :--- | :--- |
 | **PG** | M.Des User Experience Design · JAIN (Deemed-to-be University), Bengaluru |
 | **UG** | B.E. Computer Science & Design · PESITM Shivamogga · USN **4PM22CG028** · First Class with Distinction (May/June 2026) |
+| **Identity** | **Son of a farmer · Always a farmer** |
 | **Location** | Shivamogga / Bengaluru · he/him |
 | **Portfolio** | [nkrportfolio.vercel.app](https://nkrportfolio.vercel.app) *(only official)* |
 | **Contact** | [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) · [+91 83101 93757](tel:+918310193757) |
@@ -174,6 +177,6 @@ GitHub: **YOLO** · **Pull Shark** · **Quickdraw**
 
 <br/><br/>
 
-**he/him** · Available for client edits & commissions at affordable rates — UI/UX, logos, templates, invitations, digital invites. Feel free to ask: [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) · [Instagram DM](https://instagram.com/_mr.nishanth.k.r)
+**Son of a farmer · Always a farmer** · **he/him** · Available for client edits & commissions at affordable rates — UI/UX, logos, templates, invitations, digital invites. Feel free to ask: [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) · [Instagram DM](https://instagram.com/_mr.nishanth.k.r)
 
 </div>
