@@ -32,6 +32,8 @@
 
 I'm **Nishanth K R** — B.E. **Computer Science & Design** (PESITM Shivamogga, First Class with Distinction) and currently pursuing **M.Des User Experience Design** at **JAIN (Deemed-to-be University), SoDMCA**. I design across **UI/UX**, **brand & visual identity**, **logos**, **templates**, **invitation cards** (print + digital), **frontend**, and **photography** — shipping clean products with **React** / **Next.js**, plus Windows customization tooling.
 
+**Open for client work:** edits, redesigns, logos, templates, and invitation cards — **feel free to ask**. Affordable rates for small jobs; DM or email anytime.
+
 > *UI/UX is one craft — logos, templates, and invitations are the rest of the story.*
 
 ---
@@ -75,7 +77,7 @@ Older years are **not** separate sites — they live inside the same portfolio a
 | **Location** | Shivamogga / Bengaluru · he/him |
 | **Portfolio** | [nkrportfolio.vercel.app](https://nkrportfolio.vercel.app) *(only official)* |
 | **Contact** | [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) · [+91 83101 93757](tel:+918310193757) |
-| **Open to** | UI/UX · Brand & logo design · Templates & invitation cards · Product builds |
+| **Open to** | **Client edits & commissions** (affordable) — UI/UX · logos · templates · invitation cards · digital invites · product builds · **feel free to ask** |
 
 ---
 
@@ -172,6 +174,6 @@ GitHub: **YOLO** · **Pull Shark** · **Quickdraw**
 
 <br/><br/>
 
-**he/him** · Open to UI/UX, brand design, logos, templates, invitations, and product builds.
+**he/him** · Available for client edits & commissions at affordable rates — UI/UX, logos, templates, invitations, digital invites. Feel free to ask: [nishanthkr1409@gmail.com](mailto:nishanthkr1409@gmail.com) · [Instagram DM](https://instagram.com/_mr.nishanth.k.r)
 
 </div>
