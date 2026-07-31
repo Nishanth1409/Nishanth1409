@@ -153,6 +153,14 @@ GitHub: **YOLO** · **Pull Shark** · **Quickdraw**
 
 ---
 
+### Live & credits
+
+| | |
+| :--- | :--- |
+| **Live portfolio** | [nkrportfolio.vercel.app](https://nkrportfolio.vercel.app) |
+| **Author** | [Nishanth K R](https://github.com/Nishanth1409) |
+| **Collaborators** (selected repos) | [Kartik Gopal](https://github.com/kartikgopal01) · [Thoofik](https://github.com/thoofik) |
+
 ### Connect
 
 <div align="center">
